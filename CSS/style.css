@@ -128,8 +128,7 @@
     height: 100vh;
     overflow: auto;
     margin: auto;
-    padding-top: 18px;
-
+    padding-top: 17px;
 }
 
 .about-item {
@@ -148,7 +147,6 @@
 }
 
 .about-text {
-
     width: 490px;
     outline: none;
     text-align: left;
